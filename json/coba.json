@@ -1,0 +1,25 @@
+[
+    {
+        "nama": "Thomas",
+        "umur": 16,
+        "nisn": "8129",
+        "lulus": false,
+        "hobi": ["ngoding", "ngegame"],
+        "guru": {
+            "guru1": "Agung",
+            "guru2": "Afif"
+        }
+    },
+    {
+        "nama": "Setiawan",
+        "umur": 17,
+        "nisn": "8130",
+        "lulus": false,
+        "hobi": ["ngoding", "ngegame"],
+        "guru": {
+            "guru1": "tiwi",
+            "guru2": "Agung",
+            "guru3": "Afif"
+        }
+    }
+]
